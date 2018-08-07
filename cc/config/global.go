@@ -122,6 +122,7 @@ var (
 	// Directories with warnings from Android.bp files.
 	WarningAllowedProjects = []string{
 		"device/",
+		"hardware/",
 		"vendor/",
 	}
 
